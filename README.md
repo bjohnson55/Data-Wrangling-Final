@@ -37,7 +37,7 @@ Our group wanted to analyze how ratings and earnings are correlated for movies. 
 ![Ratings by Genre](./images/GenreRating.png)
 
 ## Setup
-To correctly run this project one should have the latest version of RStudio downloaded. Once complete, download the 'Final Project.R' script and the 'imdb_top_1000.csv' to your local desktop. Set the working directory to your desktop in RStudio and begin running the code within the R script. 
+In order to run this project, one should have R-Studio downloaded. When complete, download the 'wrangling_group_project.R' script and the 'imdb_top_1000.csv' to your local desktop. Set the working directory to your desktop in R-Studio and begin running the code. 
 
 ## Project Status
 Project is: _complete_
