@@ -8,7 +8,6 @@ Our group wanted to analyze how ratings and earnings are correlated for movies. 
 * [Questions](#Questions)
 * [Resources and Tools](#Resources and Tools)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#Setup)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
@@ -31,16 +30,10 @@ Our group wanted to analyze how ratings and earnings are correlated for movies. 
 
 ## Features
 - Correlation graph of Ratings vs Earnings
-- ![Correlation](./images/correlation.png)
-- Bar Chart of top 5 earning directors
-- ![Directors](./images/directors.png)
-- Merged dataset with earning and rating fields
-- ![Ratings by Genre](./images/GenreRating.png)
-
-
-## Screenshots
 ![Correlation](./images/correlation.png)
+- Bar Chart of top 5 earning directors
 ![Directors](./images/directors.png)
+- Merged dataset with earning and rating fields
 ![Ratings by Genre](./images/GenreRating.png)
 
 ## Setup
