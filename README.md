@@ -6,11 +6,10 @@ Our group wanted to analyze how ratings and earnings are correlated for movies. 
 ## Table of Contents
 * [Info](#Information)
 * [Questions](#Questions)
-* [Resources and Tools](#Resources and Tools)
+* [Resources and Tools](#resources-and-tools)
 * [Features](#features)
 * [Setup](#Setup)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
@@ -41,12 +40,6 @@ To correctly run this project one should have the latest version of RStudio down
 
 ## Project Status
 Project is: _complete_
-> This was the final project in the Data Wrangling class; therefore, I have not revisited this project since December 2021 and it's considered complete. 
-
-## Room for Improvement
-- Look at the impact the pandemic had on earnings in the film industry
-- How have streaming services such as Netflix and Hulu impacted movie earnings?
-- Look at all movies overtime. This project analyzes only 193 films that were found in both datasets. 
 
 ## Acknowledgements
 - This project was inspired by Professor Mike Colbert in his Data Wrangling class at the University of Iowa. 
