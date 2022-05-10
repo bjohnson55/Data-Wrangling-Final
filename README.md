@@ -1,10 +1,12 @@
 # Data Wrangling Project
 > The purpose of this project was to display my skills I developed here at Tippie in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
 
+Our group wanted to analyze how ratings and earnings are correlated for movies. We wanted to showcase the skills we developed in R Studio at the Unversity of Iowa - Tippie College of Business.
+
 ## Table of Contents
-* [General Info](#general-information)
-* [Research Questions](#research-questions)
-* [Technologies Used](#technologies-used)
+* [Info](#Information)
+* [Questions](#Questions)
+* [Resources and Tools](#Resources and Tools)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#Setup)
@@ -13,28 +15,32 @@
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
-## General Information
-- Data from Kaggle and Box Office Mojo
-- This final project concluded the Data Wrangling course at the University of Iowa
+## Information
+- This final project was the conclusion of the Data Wrangling course at the University of Iowa
+- Data was gathered from Kaggle and Box Office Mojo
 
-## Research Questions
+
+## Questions
 - What is the distribution of movies and ratings across different genres? 
 - Is there any relationship between IMDb ratings and worldwide gross earnings?
 - Is there a relationship between the Director’s that have produced multiple films and the gross earnings for their films? 
 
-## Technologies Used
-- RStudio - version 4.1
+## Resources and Tools
+- RStudio
 - Github Desktop
 
 ## Features
 - Correlation graph of Ratings vs Earnings
+- ![Correlation](./images/correlation.png)
 - Bar Chart of top 5 earning directors
+- ![Directors](./images/directors.png)
 - Merged dataset with earning and rating fields
+- ![Ratings by Genre](./images/GenreRating.png)
 
 
 ## Screenshots
-![Rating vs Earning Correlation](./images/correlation.png)
-![Profitable Directors](./images/directors.png)
+![Correlation](./images/correlation.png)
+![Directors](./images/directors.png)
 ![Ratings by Genre](./images/GenreRating.png)
 
 ## Setup
