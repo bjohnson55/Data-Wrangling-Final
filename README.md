@@ -1,24 +1,24 @@
 # Data Wrangling Project
-> The purpose of this project was to display my skills I developed here at Tippie in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
+> The purpose of this project was to display my skills I developed here at Tippie in R-Studio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
 
 Our group wanted to analyze how ratings and earnings are correlated for movies. We wanted to showcase the skills we developed in R Studio at the Unversity of Iowa - Tippie College of Business.
 
 ## Table of Contents
-* [Info](#Information)
-* [Questions](#Questions)
+* [Info](#information)
+* [Questions](#questions-to-answer)
 * [Resources and Tools](#resources-and-tools)
 * [Features](#features)
-* [Setup](#Setup)
+* [Setup](#setup)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## Information
-- This final project was the conclusion of the Data Wrangling course at the University of Iowa
+- This final project was the final assignment of the Data Wrangling course at the University of Iowa
 - Data was gathered from Kaggle and Box Office Mojo
 
 
-## Questions
+## Questions to Answer
 - What is the distribution of movies and ratings across different genres? 
 - Is there any relationship between IMDb ratings and worldwide gross earnings?
 - Is there a relationship between the Director’s that have produced multiple films and the gross earnings for their films? 
@@ -26,13 +26,14 @@ Our group wanted to analyze how ratings and earnings are correlated for movies. 
 ## Resources and Tools
 - RStudio
 - Github Desktop
+- Microsoft Excel
 
 ## Features
-- Correlation graph of Ratings vs Earnings
+- Ratings vs Earnings Correlation
 ![Correlation](./images/correlation.png)
-- Bar Chart of top 5 earning directors
+- Top 5 Earning Directors Bar Chart
 ![Directors](./images/directors.png)
-- Merged dataset with earning and rating fields
+- Merged Dataset with Earnings and Ratings
 ![Ratings by Genre](./images/GenreRating.png)
 
 ## Setup
@@ -42,8 +43,8 @@ To correctly run this project one should have the latest version of RStudio down
 Project is: _complete_
 
 ## Acknowledgements
-- This project was inspired by Professor Mike Colbert in his Data Wrangling class at the University of Iowa. 
-- My group members Caleb Kitzman, Blake Murray, Grant Truesdale, and Asher Titus collaborated on this project together. 
+- My group members Caleb Kitzman, Blake Murray, Grant Truesdale, and Asher Titus collaborated on this project together.
+- This project was inspired by Professor Mike Colbert in his Data Wrangling course at the University of Iowa. 
 - Data from this project was scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt) and downloaded from [Kaggle](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
 
 ## Contact
