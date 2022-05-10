@@ -1,5 +1,5 @@
 # Data Wrangling Project
-> The purpose of this project was to display my expertise in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
+> The purpose of this project was to display my skills I developed here at Tippie in RStudio. My group and I wanted to analyze how Movie ratings correlated with earnings overtime. Throughout this project we look at multiple different aspects that dive into that relationship. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -14,7 +14,7 @@
 * [Contact](#contact)
 
 ## General Information
-- Data from kaggle and box office mojo
+- Data from Kaggle and Box Office Mojo
 - This final project concluded the Data Wrangling course at the University of Iowa
 
 ## Research Questions
@@ -52,7 +52,7 @@ Project is: _complete_
 ## Acknowledgements
 - This project was inspired by Professor Mike Colbert in his Data Wrangling class at the University of Iowa. 
 - My group members Caleb Kitzman, Blake Murray, Grant Truesdale, and Asher Titus collaborated on this project together. 
-- Data from this project was scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt) and downloaded from [kaggle](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
+- Data from this project was scraped from [Box Office Mojo](https://www.boxofficemojo.com/chart/ww_top_lifetime_gross/?ref_=bo_lnav_hm_shrt) and downloaded from [Kaggle](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
 
 ## Contact
 Created by [@BlakeJohnson](https://www.linkedin.com/in/blake-johnson-545b72184/) - feel free to connect with me!
